@@ -6,6 +6,10 @@ Nome: Daniel Tsyuoshi Yamamoto  RM: 95344
 
 Nome: Lucas Sabonaro RM: 95518
 
+### Link Youtube
+
+https://www.youtube.com/watch?v=vvzuHKblVxQ
+
 ### Problema a ser resolvido: 
  
 A nutrição é uma área crucial para a saúde, pois uma alimentação adequada pode prevenir diversas doenças e melhorar a qualidade de vida. No entanto, o avanço tecnológico também trouxe problemas para a nutrição, como o fácil acesso a alimentos ultraprocessados e a adoção de uma dieta rápida e pouco saudável. Além disso, as informações nutricionais conflitantes na internet podem confundir as pessoas e levá-las a seguir modismos alimentares sem a orientação adequada. 
